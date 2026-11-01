@@ -2,7 +2,7 @@
 - Project name: Metroidvania 6.6
 - Unity version: Unity 6000.6.6f1
 - Active game object:
-  - Name: Global Light 2D
-  - Tag: Untagged
-  - Layer: Default
+  - Name: Sprite & Damage Trigger
+  - Tag: Damage
+  - Layer: Damage
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

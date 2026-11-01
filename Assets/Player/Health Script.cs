@@ -61,7 +61,7 @@ public class HealthScript : MonoBehaviour
     {
         if (collision.gameObject.tag == "Damage")   // on collider2D vs collider2D with Damage tagged objects...
         {
-            playerHealthChanges(standardPlayerDamageIncrement);   // runs playerHealthChanges function with the standard damage increment parameter's value
+            StartCoroutine(playerHealthChanges(standardPlayerDamageIncrement));   // runs playerHealthChanges function with the standard damage increment parameter's value
         }
     }
 
