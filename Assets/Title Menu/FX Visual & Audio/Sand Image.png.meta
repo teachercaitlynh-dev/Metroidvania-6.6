@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 8aeb9f34843a72e408346cd4df66b515
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 678844264964660696
+    second: gold dust_0
+  - first:
+      213: -578831306333359105
+    second: gold dust_1
+  - first:
+      213: -4154786207577663244
+    second: gold dust_2
+  - first:
+      213: -6730876391886841454
+    second: gold dust_3
+  - first:
+      213: -4114253873250675164
+    second: gold dust_4
+  - first:
+      213: 1674647035520251395
+    second: gold dust_5
+  - first:
+      213: 2289825721931424652
+    second: gold dust_6
+  - first:
+      213: 8177075794642714432
+    second: gold dust_7
+  - first:
+      213: 4459972975572171674
+    second: gold dust_8
+  - first:
+      213: 442334790416005538
+    second: gold dust_9
+  - first:
+      213: 8831712295666795571
+    second: gold dust_10
+  - first:
+      213: 3347355593881417257
+    second: gold dust_11
+  - first:
+      213: 557664492453265799
+    second: gold dust_12
+  - first:
+      213: 1151100243268459592
+    second: gold dust_13
+  - first:
+      213: 3710106049135858468
+    second: gold dust_14
+  - first:
+      213: -1556314420910141793
+    second: gold dust_15
+  - first:
+      213: 8945810146779284569
+    second: gold dust_16
+  - first:
+      213: 4696835871231582589
+    second: gold dust_17
+  - first:
+      213: -4745937473082263027
+    second: gold dust_18
+  - first:
+      213: 8939897415174680290
+    second: gold dust_19
+  - first:
+      213: -2959284015642862198
+    second: gold dust_20
+  - first:
+      213: -7809777174449597669
+    second: gold dust_21
+  - first:
+      213: 7073422889242040557
+    second: gold dust_22
+  - first:
+      213: -9164694032042831054
+    second: gold dust_23
+  - first:
+      213: 4871199350132046333
+    second: gold dust_24
+  - first:
+      213: 5804811427443036016
+    second: gold dust_25
+  - first:
+      213: -236352322215003901
+    second: gold dust_26
+  - first:
+      213: -4827190512603080817
+    second: gold dust_27
+  - first:
+      213: 6514708867800460415
+    second: gold dust_28
+  - first:
+      213: 1036416210821190778
+    second: gold dust_29
+  - first:
+      213: 7688950606306043576
+    second: gold dust_30
+  - first:
+      213: -6231424047289553003
+    second: gold dust_31
+  - first:
+      213: 2108717874555973805
+    second: gold dust_32
+  - first:
+      213: -3035285549870716243
+    second: gold dust_33
+  - first:
+      213: -4469774753382958831
+    second: gold dust_34
+  - first:
+      213: 7075814631290704852
+    second: gold dust_35
+  - first:
+      213: -8248229478800815501
+    second: gold dust_36
+  - first:
+      213: -5579803910795070480
+    second: gold dust_37
+  - first:
+      213: -7047978837472466669
+    second: gold dust_38
+  - first:
+      213: -4880024871964811257
+    second: gold dust_39
+  - first:
+      213: -4940006289489217578
+    second: gold dust_40
+  - first:
+      213: 2308843306091107552
+    second: gold dust_41
+  - first:
+      213: 3676578506867256876
+    second: gold dust_42
+  - first:
+      213: 1855130913309927231
+    second: gold dust_43
+  - first:
+      213: 6939591825565648068
+    second: gold dust_44
+  - first:
+      213: 5056278198878591614
+    second: gold dust_45
+  - first:
+      213: -1664823755932091154
+    second: gold dust_46
+  - first:
+      213: 3831124909444419079
+    second: gold dust_47
+  - first:
+      213: 150965451443655591
+    second: gold dust_48
+  - first:
+      213: -8215943316687351479
+    second: gold dust_49
+  - first:
+      213: -5573085640596599863
+    second: gold dust_50
+  - first:
+      213: -3274162645483205406
+    second: gold dust_51
+  - first:
+      213: 8984814497385207790
+    second: gold dust_52
+  - first:
+      213: -1602681189028442904
+    second: gold dust_53
+  - first:
+      213: -5580508903889913272
+    second: gold dust_54
+  - first:
+      213: -4700381131575791720
+    second: gold dust_55
+  - first:
+      213: -3729288820887424942
+    second: gold dust_56
+  - first:
+      213: -7693218149746724255
+    second: gold dust_57
+  - first:
+      213: 1070703975687641746
+    second: gold dust_58
+  - first:
+      213: -4354944375539200002
+    second: gold dust_59
+  - first:
+      213: -5373056869300236397
+    second: gold dust_60
+  - first:
+      213: 3584777319057940033
+    second: gold dust_61
+  - first:
+      213: 140614300969575600
+    second: gold dust_62
+  - first:
+      213: 4735453701120205773
+    second: gold dust_63
+  - first:
+      213: 4659971946966200713
+    second: gold dust_64
+  - first:
+      213: 5782438452902954323
+    second: gold dust_65
+  - first:
+      213: 8195290328011743393
+    second: gold dust_66
+  - first:
+      213: -5579991363636506344
+    second: gold dust_67
+  - first:
+      213: 1411462180482404046
+    second: gold dust_68
+  - first:
+      213: -8374959971754409118
+    second: gold dust_69
+  - first:
+      213: -1708974062904153555
+    second: gold dust_70
+  - first:
+      213: 1054455679731705274
+    second: gold dust_71
+  - first:
+      213: -2090611071005388697
+    second: gold dust_72
+  - first:
+      213: 163825554605069759
+    second: gold dust_73
+  - first:
+      213: -8248893079531505434
+    second: gold dust_74
+  - first:
+      213: -4088819545013904063
+    second: gold dust_75
+  - first:
+      213: 4900116201803624104
+    second: gold dust_76
+  - first:
+      213: 1346359488780332806
+    second: gold dust_77
+  - first:
+      213: 1716323079173732537
+    second: gold dust_78
+  - first:
+      213: 9118509091219917652
+    second: gold dust_79
+  - first:
+      213: 2640243737935822720
+    second: gold dust_80
+  - first:
+      213: 4689048996205760914
+    second: gold dust_81
+  - first:
+      213: -8516438763056899334
+    second: gold dust_82
+  - first:
+      213: 3925766977666903703
+    second: gold dust_83
+  - first:
+      213: 637399829104406828
+    second: gold dust_84
+  - first:
+      213: -6972335014421835505
+    second: gold dust_85
+  - first:
+      213: 8179693100661735047
+    second: gold dust_86
+  - first:
+      213: 3428502924891761420
+    second: gold dust_87
+  - first:
+      213: 4833200007827394402
+    second: gold dust_88
+  - first:
+      213: -2291981861857362367
+    second: gold dust_89
+  - first:
+      213: -684541775924017742
+    second: gold dust_90
+  - first:
+      213: -1539636471678301519
+    second: gold dust_91
+  - first:
+      213: -5964470409416092699
+    second: gold dust_92
+  - first:
+      213: -8272821957277211057
+    second: gold dust_93
+  - first:
+      213: -4359924280296467194
+    second: gold dust_94
+  - first:
+      213: 6553016797994416510
+    second: gold dust_95
+  - first:
+      213: 1378615450594842392
+    second: gold dust_96
+  - first:
+      213: 1212344051465469014
+    second: gold dust_97
+  - first:
+      213: 7729109428133255331
+    second: gold dust_98
+  - first:
+      213: -7252923657177074759
+    second: gold dust_99
+  - first:
+      213: -2516401795607809710
+    second: gold dust_100
+  - first:
+      213: 2197162020221272524
+    second: gold dust_101
+  - first:
+      213: 8259380028964141059
+    second: gold dust_102
+  - first:
+      213: 5637502444903847811
+    second: gold dust_103
+  - first:
+      213: 1739073788137871921
+    second: gold dust_104
+  - first:
+      213: 9093530946083300057
+    second: gold dust_105
+  - first:
+      213: 5817011609713421964
+    second: gold dust_106
+  - first:
+      213: 9097508769839394844
+    second: gold dust_107
+  - first:
+      213: -2553096010974793001
+    second: gold dust_108
+  - first:
+      213: -8817614533992980111
+    second: gold dust_109
+  - first:
+      213: 7656520338783101626
+    second: gold dust_110
+  - first:
+      213: 7253392049170251505
+    second: gold dust_111
+  - first:
+      213: 6904873493786550630
+    second: gold dust_112
+  - first:
+      213: -8982531066122786468
+    second: gold dust_113
+  - first:
+      213: 3827202688654060083
+    second: gold dust_114
+  - first:
+      213: -4115662782352032351
+    second: gold dust_115
+  - first:
+      213: -132749125650929990
+    second: gold dust_116
+  - first:
+      213: -1971113317786263945
+    second: gold dust_117
+  - first:
+      213: 32412345161916033
+    second: gold dust_118
+  - first:
+      213: -515359072994775468
+    second: gold dust_119
+  - first:
+      213: 4038810489484809263
+    second: gold dust_120
+  - first:
+      213: 6950654801819014797
+    second: gold dust_121
+  - first:
+      213: -1636803069399375547
+    second: gold dust_122
+  - first:
+      213: -3835412608345499252
+    second: gold dust_123
+  - first:
+      213: -4955687314724689814
+    second: gold dust_124
+  - first:
+      213: 6115649599842143331
+    second: gold dust_125
+  - first:
+      213: 3091836373581030238
+    second: gold dust_126
+  - first:
+      213: -4987651314207669390
+    second: gold dust_127
+  - first:
+      213: -4850844537076621287
+    second: gold dust_128
+  - first:
+      213: 1239818962550564975
+    second: gold dust_129
+  - first:
+      213: 2562042750232566581
+    second: gold dust_130
+  - first:
+      213: -7686299973663377111
+    second: gold dust_131
+  - first:
+      213: 39993050281580631
+    second: gold dust_132
+  - first:
+      213: 728715628928794544
+    second: gold dust_133
+  - first:
+      213: 3683043522274197498
+    second: gold dust_134
+  - first:
+      213: -3608101754763630111
+    second: gold dust_135
+  - first:
+      213: -8622477352477300459
+    second: gold dust_136
+  - first:
+      213: 4823167429433862261
+    second: gold dust_137
+  - first:
+      213: 1923938731999622987
+    second: gold dust_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ash particle sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 617
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415924aeb35f3f700800000000000000
+      internalID: 573071215288292628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ash particle sprite_0: 573071215288292628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
